@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EjercicioListaCompra</string>
+    <string name="name">Name</string>
+    <string name="quanity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="total">Total</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="ok">Ok</string>
+    <string name="titleCreate">CREATE PRODUCT</string>
+    <string name="missing">MISSING DATA</string>
+
+</resources>
